@@ -13,12 +13,7 @@ import javafx.scene.control.Button;
 
 import java.io.IOException;
 
-/**
- * Project: Short Assignment 10 
- * Author: Behruz Ernazarov
- * Class: CS210
- * Professor: Adriana Picoral
- */
+
 
 public class App extends Application {
 
